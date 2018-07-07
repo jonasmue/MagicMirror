@@ -1,0 +1,87 @@
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 100;
+	src: local("Open Sans Thin"),
+	local("OpenSans-Thin"),
+	url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff2") format("woff2"),
+	url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff") format("woff"),
+	url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans Condensed";
+	font-style: normal;
+	font-weight: 300;
+	src: local("Open Sans Condensed Light"),
+	local("OpenSansCondensed-Light"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Light/OpenSansCondensed-Light.woff2") format("woff2"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Light/OpenSansCondensed-Light.woff") format("woff"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Light/OpenSansCondensed-Light.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans Condensed";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Open Sans Condensed"),
+	local("OpenSansCondensed-Light"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Light/OpenSansCondensed-Light.woff2") format("woff2"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Light/OpenSansCondensed-Light.woff") format("woff"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Light/OpenSansCondensed-Light.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans Condensed";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Open Sans Condensed Bold"),
+	local("OpenSansCondensed-Bold"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Bold/OpenSansCondensed-Bold.woff2") format("woff2"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Bold/OpenSansCondensed-Bold.woff") format("woff"),
+	url("node_modules/open-sans-condensed-fontface/fonts/Bold/OpenSansCondensed-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Open Sans"),
+	local("OpenSans-Regular"),
+	url("node_modules/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff2") format("woff2"),
+	url("node_modules/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff") format("woff"),
+	url("node_modules/open-sans-fontface/fonts/Regular/OpenSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 500;
+	src: local("Open Sans Medium"),
+	local("OpenSans-Medium"),
+	url("node_modules/open-sans-fontface/fonts/Semibold/OpenSans-Semibold.woff2") format("woff2"),
+	url("node_modules/open-sans-fontface/fonts/Semibold/OpenSans-Semibold.woff2") format("woff"),
+	url("node_modules/open-sans-fontface/fonts/Semibold/OpenSans-Semibold.woff2") format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Open Sans Bold"),
+	local("OpenSans-Bold"),
+	url("node_modules/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff2") format("woff2"),
+	url("node_modules/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff") format("woff"),
+	url("node_modules/open-sans-fontface/fonts/Bold/OpenSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 300;
+	src: local("Open Sans Light"),
+	local("OpenSans-Light"),
+	url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff2") format("woff2"),
+	url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff") format("woff"),
+	url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.ttf") format("truetype");
+}
