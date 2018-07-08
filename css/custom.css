@@ -9,6 +9,34 @@
  * Changes to this files will be ignored by GIT. *
  *****************************************************/
 
- body {
- 	
- }
+body {
+	font-family: "Open Sans", "Roboto Condensed", sans-serif;
+}
+
+.light {
+	font-family: "Open Sans", "Roboto Condensed", sans-serif;
+}
+
+.regular {
+	font-family: "Open Sans", "Roboto Condensed", sans-serif;
+}
+
+.bold {
+	font-family: "Open Sans", "Roboto Condensed", sans-serif;
+}
+
+header {
+	font-family: "Open Sans", "Roboto Condensed", Arial, Helvetica, sans-serif;
+}
+
+.region.bottom.bar {
+	max-width: 1200px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.newsfeed .small.light{
+	margin-top: 15px;
+}
