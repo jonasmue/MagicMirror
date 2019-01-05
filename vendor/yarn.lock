@@ -328,6 +328,10 @@ fill-range@^2.1.0:
     repeat-element "^1.1.2"
     repeat-string "^1.5.2"
 
+font-awesome-5-css@^5.0.13:
+  version "5.0.13"
+  resolved "https://registry.yarnpkg.com/font-awesome-5-css/-/font-awesome-5-css-5.0.13.tgz#6d86d533e39baa7116a332ad851b395cdf1242ae"
+
 font-awesome@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/font-awesome/-/font-awesome-4.7.0.tgz#8fa8cf0411a1a31afd07b06d2902bb9fc815a133"
