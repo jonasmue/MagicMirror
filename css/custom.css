@@ -44,29 +44,3 @@ header {
 .MMM-EFA-departures {
 	font-family: "Open Sans Condensed", "Roboto Condensed", sans-serif;
 }
-
-.xsmall {
-	font-size: 23px;
-	line-height: 30px;
-}
-
-.small {
-	font-size: 30px;
-	line-height: 37px;
-}
-
-.medium {
-	font-size: 45px;
-	line-height:52px;
-}
-
-.large {
-	font-size:97px;
-	line-height: 97px;
-}
-
-.xlarge {
-	font-size: 112px;
-	line-height: 112px;
-	letter-spacing: -3px;
-}
