@@ -1,4 +1,4 @@
-/* Magic Mirror Test config sample enviroment set por 8090
+/* Magic Mirror Test config sample environment set port 8090
  *
  * By Rodrigo Ramírez Norambuena https://rodrigoramirez.com
  * MIT Licensed.
@@ -13,13 +13,14 @@ var config = {
 	units: "metric",
 	electronOptions: {
 		webPreferences: {
-			nodeIntegration: true,
-		},
+			nodeIntegration: true
+		}
 	},
 
-	modules: [
-	]
+	modules: []
 };
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
-if (typeof module !== "undefined") {module.exports = config;}
+if (typeof module !== "undefined") {
+	module.exports = config;
+}
